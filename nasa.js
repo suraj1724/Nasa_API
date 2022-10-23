@@ -16,5 +16,5 @@ function accessNasa(){
            
         }
     })
-    console.log("alisha")
+    
 }
